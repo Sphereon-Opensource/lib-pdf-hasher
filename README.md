@@ -1,1 +1,3 @@
 # lib-pdf-hasher
+
+UNDER CONSTRUCTION  -- DO NOT USE IN PRODUCTION ---
